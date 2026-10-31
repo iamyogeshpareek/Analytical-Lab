@@ -1,4 +1,5 @@
 Analytical Lab — Analytical Procedure Workbench is a standalone, browser-based educational tool for organizing calculations used in analytical procedure validation. It is intended to support research scholars and analysts who want to enter their measurements in Excel, review calculations, and generate a report without installing a desktop application.
+https://iamyogeshpareek.github.io/Analytical-Lab/
 
 The tool accepts Excel workbooks and calibration CSV files. It can calculate calibration models, regression equations, coefficients of determination, back-calculated concentrations, and estimated limits of detection and quantitation from calibration data. When the workbook contains compatible tables, it can also summarize recovery, intra-day precision, inter-day precision, and robustness. For simultaneous methods with more than one analyte, calibration curves are reported separately, and users can map accuracy and precision data to the corresponding calibration.
 
